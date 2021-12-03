@@ -1,0 +1,3 @@
+# Project exclude paths
+/bookingservApi/target/
+/bookingservImplementation/target/
